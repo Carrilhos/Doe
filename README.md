@@ -8,7 +8,9 @@
 
 <br>
 <br>
-
+<h2>Sobre o projeto</h2>
+Tela estático de um site que serviria para cadastrar doadores de sangue
+<br>
 <h2>Execução<h2>
 
 ```
