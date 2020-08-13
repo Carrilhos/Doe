@@ -1,5 +1,5 @@
 
-<h1>Doe! Salve vidas <h1>
+<center><h1>Doe! Salve vidas <h1></center>
 <br>
 <br>
 
